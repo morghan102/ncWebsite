@@ -50,3 +50,11 @@ a, a:hover {
   z-index: 100;
   right: 0;
   bottom: 0; }
+
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: white; }
+
+#loginModal .modal-header {
+  background-color: #901CAD;
+  color: white; }
